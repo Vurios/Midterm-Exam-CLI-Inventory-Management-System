@@ -70,23 +70,6 @@ InventoryManagementSystem/
 
 ---
 
-## How to Run
-
-**Requirements:** .NET 8 SDK — download at [dotnet.microsoft.com](https://dotnet.microsoft.com/download)
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/InventoryManagementSystem.git
-
-# Navigate into the project folder
-cd InventoryManagementSystem
-
-# Run the program
-dotnet run
-```
-
----
-
 ## Storage
 
 This project uses `List<T>` in-memory storage only. No database or external files are used, as required by the project specifications.
@@ -95,6 +78,6 @@ This project uses `List<T>` in-memory storage only. No database or external file
 
 ## Course Info
 
-- **Subject:** Object-Oriented Programming
+- **Subject:** IT Elective 2
 - **Language:** C# (.NET 8)
 - **Type:** Console Application
