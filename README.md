@@ -70,6 +70,23 @@ InventoryManagementSystem/
 
 ---
 
+## How to Run
+
+**Requirements:** .NET 8 SDK — download at [dotnet.microsoft.com](https://dotnet.microsoft.com/download)
+
+```bash
+# Clone the repository
+git clone https://github.com/Vurios/Midterm-Exam-CLI-Inventory-Management-System.git  
+
+# Navigate into the project folder
+cd Midterm-Exam-CLI-Inventory-Management-System
+
+# Run the program
+dotnet run
+```
+
+---
+
 ## Storage
 
 This project uses `List<T>` in-memory storage only. No database or external files are used, as required by the project specifications.
