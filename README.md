@@ -40,7 +40,8 @@ InventoryManagementSystem/
 ├── InventoryManager.cs
 ├── Program.cs
 ├── InventoryManagementSystem.csproj
-└── InventoryManagementSystem.sln
+├── InventoryManagementSystem.sln
+└── README.md
 ```
 
 ---
